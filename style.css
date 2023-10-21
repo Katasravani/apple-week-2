@@ -322,13 +322,11 @@ text-decoration: none;
 }
 .comparision{
     display: flex;
-width: 980px;
-height: 29px;
-padding: 2px 274.766px;
+width: 100vw;
 justify-content: center;
-align-items: flex-start;
+align-items: center;
 gap: 40.547px;
-flex-shrink: 0;
 padding-bottom: 100px;
 }
+
 
